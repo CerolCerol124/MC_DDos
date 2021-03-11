@@ -1,4 +1,4 @@
-![](https://media-dominaria.cursecdn.com/avatars/thumbnails/133/367/320/160/636399538505025043.png)
+![](https://siasky.net/GAA_I1eSR3lxrMZWypzrcgdiU5PQcqI7LkUjIH1SPB-hSw.png)
 
 ### Gereksinimler - Requirements
 **Linux OS**
