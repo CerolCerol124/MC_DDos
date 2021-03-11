@@ -1,4 +1,4 @@
-![](https://siasky.net/GAA_I1eSR3lxrMZWypzrcgdiU5PQcqI7LkUjIH1SPB-hSw)
+(https://siasky.net/GAA_I1eSR3lxrMZWypzrcgdiU5PQcqI7LkUjIH1SPB-hSw)
 
 ### Gereksinimler - Requirements
 **Linux OS**
