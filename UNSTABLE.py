@@ -13,9 +13,9 @@ import logging
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR) # C0d3d by UN5T48L3
 
 if sys.platform.startswith("linux"): # C0d3d by UN5T48L3
-	from scapy.all import * # C0d3d by UN5T48L3
+	from Kamene.all import * # C0d3d by UN5T48L3
 elif sys.platform.startswith("freebsd"): # C0d3d by UN5T48L3
-	from scapy.all import * # C0d3d by UN5T48L3
+	from Kamene.all import * # C0d3d by UN5T48L3
 else: # C0d3d by UN5T48L3
 	print ("TCP/UDP FLOOD ARE NOT SUPPORTED UNDER THIS SYSTEM. YOU MUST USE HTTP FLOOD.") # C0d3d by UN5T48L3
 
